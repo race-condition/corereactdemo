@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOv1lWiSP1CrSl2Zd/efyRX9kSZXPxuL1eKnAF1CzPSGIKhsZHfVgxQkf1pyD9s2bN58xMQJR/EY34XrqLiFag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RaceBrocx\\git\\coredemo\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaceBrocx\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RaceBrocx\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
